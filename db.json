@@ -46,5 +46,10 @@
          "trNo":"070170",
          "wgBudam":53
       }
+   ],
+   "raceCount":[
+      {
+         "rcCount":12,
+      }
    ]
 }
